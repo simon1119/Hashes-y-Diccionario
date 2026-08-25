@@ -64,21 +64,16 @@ Archivos:
 - C#
 - Java
 
-## Conceptos aprendidos
+## Requisitos
 
-Durante la actividad se trabajaron principalmente los siguientes conceptos:
+Para poder abrir y ejecutar los códigos de este repositorio es necesario tener instalados los siguientes programas:
 
-- Diccionarios.
-- Tablas hash.
-- Claves y valores.
-- Agregar información.
-- Buscar información.
-- Actualizar información.
-- Eliminar información.
-- Recorrer diccionarios.
-- Contar frecuencias.
-- Uso de HashMap en Java.
-- Uso de Dictionary en C#.
+- **Python:** necesario para ejecutar los archivos .py.
+- **.NET SDK:** necesario para compilar y ejecutar los archivos .cs de C#.
+- **Java JDK:** necesario para compilar y ejecutar los archivos .java.
+- **Editor de código:** se recomienda utilizar Visual Studio Code, Visual Studio, IntelliJ IDEA o algún otro editor compatible con estos lenguajes.
+
+También es necesario tener los archivos del repositorio descargados en el computador.
 
 ## Seguridad informática
 
