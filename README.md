@@ -17,9 +17,9 @@ Se crea un diccionario que almacena el nombre de un contacto como clave y su nú
 El programa solicita un nombre al usuario y muestra el número de teléfono si el contacto existe.
 
 Archivos:
-- `ejercicio_p01.py`
-- `EjercicioP01.cs`
-- `ejercicio_p01.java`
+- ejercicio_p01.py
+- EjercicioP01.cs
+- ejercicio_p01.java
 
 ### Ejercicio 2 - Frecuencia de letras
 
@@ -28,9 +28,9 @@ El programa recibe una frase y cuenta cuántas veces aparece cada letra, sin dis
 Finalmente, muestra las letras ordenadas desde la que aparece más veces hasta la que aparece menos veces.
 
 Archivos:
-- `ejercicio_p02.py`
-- `EjercicioP02.cs`
-- `ejercicio_p02.java`
+- ejercicio_p02.py
+- EjercicioP02.cs
+- ejercicio_p02.java
 
 ### Ejercicio 3 - Menú de productos
 
@@ -45,18 +45,18 @@ El programa permite:
 - Salir del programa.
 
 Archivos:
-- `ejercicio_p03.py`
-- `EjercicioP03.cs`
-- `ejercicio_p03.java`
+- ejercicio_p03.py
+- EjercicioP03.cs
+- ejercicio_p03.java
 
 ### Ejercicio 4 - Estudiantes por curso
 
 Se tiene una lista de estudiantes con sus respectivos cursos y se construye un diccionario que agrupa a los estudiantes según el curso al que pertenecen.
 
 Archivos:
-- `ejercicio_p04.py`
-- `EjercicioP04.cs`
-- `ejercicio_p04.java`
+- ejercicio_p04.py
+- EjercicioP04.cs
+- ejercicio_p04.java
 
 ## Lenguajes utilizados
 
@@ -86,12 +86,4 @@ También se investigó el uso del hash en la seguridad informática, especialmen
 
 Se aprendió que los sistemas seguros no deberían guardar las contraseñas directamente, sino utilizar métodos de hash diseñados para protegerlas.
 
-La información de esta parte se encuentra en el documento:
-
-`Puntos_5_y_6_Hashes_Diccionarios_SIN_SIMBOLOS.docx`
-
-## Autor
-
-Estudiante de grado 11.
-
-Actividad académica sobre estructuras de datos no lineales.
+La información de esta parte se encuentra en el documento de word
