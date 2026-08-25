@@ -1,4 +1,4 @@
-# Hashes y Diccionarios
+# Hashes y Diccionarios - Simón Berrio Rodas 11°6
 
 ## Descripción
 
